@@ -1,4 +1,4 @@
-# nuclei_registration
+
 # Nuclei Points-Based Registration Model
 
 A universal multi-scale nuclei registration framework for histological images at various magnifications and staining methods.
