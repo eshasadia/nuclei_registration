@@ -1,0 +1,11 @@
+# Register two images
+python main.py register --fixed_image path/to/fixed.png --moving_image path/to/moving.png
+
+# Process a directory of image pairs
+python main.py process --input_dir path/to/image_pairs
+
+# Detect nuclei in an image
+python main.py detect --input_image path/to/image.png
+
+# Extract features from nuclei
+python main.py extract --input_image path/to/image.png
